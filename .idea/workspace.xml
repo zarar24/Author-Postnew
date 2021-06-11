@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08ef1467-0d4c-4055-8ef0-cc3daa53545f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1tCh3IgnTQAa3h1d0UyPUov3nTf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="Author&amp;Postnew" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08ef1467-0d4c-4055-8ef0-cc3daa53545f" name="Default Changelist" comment="" />
+      <created>1622278777704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622278777704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622278976324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1622278976324" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1622290938293">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1622290938293" />
+    <state x="65" y="47" key="new project wizard" timestamp="1622291040116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="47" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1622291040116" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Author_Postnew$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1622278976404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
